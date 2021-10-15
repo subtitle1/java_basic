@@ -1,5 +1,3 @@
-package example_09_08_method;
-
 public class Sample2 {
 	// 통장의 현재 잔액
 	// 멤버 변수
