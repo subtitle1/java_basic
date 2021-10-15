@@ -1,5 +1,3 @@
-package example_09_27_homework_review;
-
 import java.util.Scanner;
 
 public class App {
