@@ -1,5 +1,3 @@
-package example_09_27_homework_review;
-
 public class Bank {
     private Account[] database = new Account[100];
     private int position = 0;
