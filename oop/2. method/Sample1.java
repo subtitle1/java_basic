@@ -1,4 +1,3 @@
-package example_09_08_method;
 import java.util.Date;
 import java.util.Random;
 
