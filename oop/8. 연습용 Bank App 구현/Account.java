@@ -1,5 +1,3 @@
-package example_09_27_homework_review;
-
 public class Account {
     // 계좌아이디
     private String id;
