@@ -1,5 +1,3 @@
-package example_09_14_extends;
-
 public class PersonApp {
 	
 	public static void main(String[] args) {
