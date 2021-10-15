@@ -1,5 +1,3 @@
-package example_09_24_abstract;
-
 public class NormalPhone extends AbstractPhone {
 
 	public NormalPhone() {}
