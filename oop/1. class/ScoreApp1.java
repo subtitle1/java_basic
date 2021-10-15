@@ -1,5 +1,3 @@
-package example_09_06_class;
-
 public class ScoreApp1 {
 	public static void main(String[] args) {
 		// Score 클래스를 이용해서 성적정보를 관리하기
