@@ -1,5 +1,3 @@
-package example_09_24_abstract;
-
 /*
  * Iphone
  * 		구현클래스이다
