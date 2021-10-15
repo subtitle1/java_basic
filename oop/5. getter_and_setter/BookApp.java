@@ -1,4 +1,3 @@
-package example_09_13_modifier;
 import java.util.Date;
 
 public class BookApp {
