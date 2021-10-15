@@ -1,5 +1,3 @@
-package example_09_09_constructor;
-
 public class StudentScoreApp {
 	public static void main(String[] args) {
 		
