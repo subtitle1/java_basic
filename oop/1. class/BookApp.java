@@ -1,4 +1,3 @@
-package example_09_06_class;
 import java.util.Date;
 
 public class BookApp {
