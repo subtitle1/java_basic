@@ -1,5 +1,3 @@
-package example_09_24_abstract;
-
 public abstract class AbstractSmartPhone extends AbstractPhone implements SmartPhone {
 
 	private String ip;
