@@ -1,4 +1,3 @@
-package example_09_06_class;
 import java.util.Date; // 날짜를 나타낼 때 쓰는 import
 
 public class Book {
