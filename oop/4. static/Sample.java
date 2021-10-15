@@ -1,5 +1,3 @@
-package example_09_10_static;
-
 public class Sample {
 	
 	static int x;		// 정적 변수
