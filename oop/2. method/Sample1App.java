@@ -1,5 +1,3 @@
-package example_09_08_method;
-
 public class Sample1App {
 	public static void main(String[] args) {
 		// Sample1 설계도로 객체 생성하기
