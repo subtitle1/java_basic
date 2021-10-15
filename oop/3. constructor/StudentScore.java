@@ -1,5 +1,3 @@
-package example_09_09_constructor;
-
 public class StudentScore {
 	/*
 	 * 학생 시험점수 객체용 클래스
