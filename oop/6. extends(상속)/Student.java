@@ -1,5 +1,3 @@
-package example_09_14_extends;
-
 public class Student extends Person {
 	
 	// Student의 고유한 변수와 기능 정의하기	
