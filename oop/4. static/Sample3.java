@@ -1,5 +1,3 @@
-package example_09_10_static;
-
 import java.util.Arrays;
 
 public class Sample3 {
