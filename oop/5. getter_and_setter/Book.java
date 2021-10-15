@@ -1,4 +1,3 @@
-package example_09_13_modifier;
 import java.util.Date;
 //값을 저장하는 객체를 생성하는 데 사용되는 클래스의 일반적인 접근 제한
 
