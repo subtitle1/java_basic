@@ -1,5 +1,3 @@
-package example_09_09_constructor;
-
 public class Sample1 {
 	
 	// 기본 자료형값을 전달받아서 값을 변경하는 메소드
