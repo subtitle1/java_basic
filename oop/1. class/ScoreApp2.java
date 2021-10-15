@@ -1,5 +1,3 @@
-package example_09_06_class;
-
 public class ScoreApp2 {
 	public static void main(String[] args) {
 		// 배열을 이용해서 여러명의 성적을 관리하기
