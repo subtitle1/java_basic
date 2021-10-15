@@ -1,5 +1,3 @@
-package example_09_10_static;
-
 public class Sample2App {
 	public static void main(String[] args) {
 		
