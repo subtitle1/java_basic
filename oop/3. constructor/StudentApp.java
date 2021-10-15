@@ -1,5 +1,3 @@
-package example_09_09_constructor;
-
 public class StudentApp {
 	public static void main(String[] args) {
 		// Student 객체 생성하기
