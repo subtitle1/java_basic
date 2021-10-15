@@ -1,5 +1,3 @@
-package example_09_08_method;
-
 public class Sample2App {
 	public static void main(String[] args) {
 		
