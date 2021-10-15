@@ -1,5 +1,3 @@
-package example_09_13_modifier;
-
 public class Exam {
 	private int no;
 	private String title;
