@@ -1,5 +1,3 @@
-package example_09_10_static;
-
 public class CircleApp {
 	public static void main(String[] args) {
 		
