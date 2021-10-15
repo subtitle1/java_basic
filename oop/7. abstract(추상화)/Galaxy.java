@@ -1,5 +1,3 @@
-package example_09_24_abstract;
-
 public class Galaxy extends AbstractSmartPhone {
 	
 	private String gmail;
