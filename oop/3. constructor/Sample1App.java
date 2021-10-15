@@ -1,5 +1,3 @@
-package example_09_09_constructor;
-
 public class Sample1App {
 	public static void main(String[] args) {
 		// 값 변경이 구현된 Sample1 객체 생성
