@@ -1,5 +1,3 @@
-package example_09_14_extends;
-
 /**
  * 사람과 관련된 속성 및 기능이 정의된 클래스이다.
  * @author Mars
