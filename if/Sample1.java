@@ -1,5 +1,3 @@
-package example_09_01_if;
-
 public class Sample1 {
 	public static void main(String[] args) {
 		/* if문
