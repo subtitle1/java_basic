@@ -1,5 +1,3 @@
-package example_09_28_anonymous;
-
 public class ClickApp {
 
 	public static void main(String[] args) {
