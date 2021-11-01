@@ -1,5 +1,3 @@
-package example_09_29_object;
-
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 import java.lang.reflect.Parameter;
