@@ -1,5 +1,3 @@
-package example_09_29_object;
-
 import java.util.Objects;
 
 public class Student {
