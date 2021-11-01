@@ -1,5 +1,3 @@
-package example_09_29_object;
-
 public class ObjectApp2 {
 
 	public static void main(String[] args) {
